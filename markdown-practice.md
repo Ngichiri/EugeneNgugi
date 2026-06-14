@@ -1,9 +1,9 @@
 # "Learning"
 ## "My Learning Goals"
 ### "This Semester"
-**lerning about programing**
-*lerning about programing*
-~~lerning about programing~~
+- **lerning about programing**
+- *lerning about programing*
+- ~~lerning about programing~~
 [github] (https://github.com/Ngichiri)
 [Music] (https://en.wikipedia.org/wiki/Music)
 - programming
