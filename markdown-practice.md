@@ -2,8 +2,8 @@
 ## "My Learning Goals"
 ### "This Semester"
 - **lerning about programing**
-- *lerning about programing*
-- ~~lerning about programing~~
+- *lerning about html*
+- ~~lerning about git hub~~
 - [github] (https://github.com/Ngichiri)
 - [Music] (https://en.wikipedia.org/wiki/Music)
 - programming
