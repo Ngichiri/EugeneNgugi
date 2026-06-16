@@ -16,9 +16,10 @@
 |-----------|-------------------------------------------|------------------------------------------------|
 | vs code   |  is an integrated development environment |  https://code.visualstudio.com/                |
 | html      |  to structure and organize content        |  https://www.w3schools.com/html/html_intro.asp |
-- [x]
-- [ ]
-- [ ]
+- [x] git hub profile.
+- [ ] host personal website with git hub page.
+- [ ] markdown basis.
+- [ ] syntax reference.
 ```python
 > i discoverd practicing programing is better than reading in a book
  "Add markdown practice exercises"
