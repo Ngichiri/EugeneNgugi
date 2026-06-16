@@ -25,4 +25,3 @@
 print("Hello, world!")
 ```
 > i discoverd practicing programing is better than reading in a book.
- "Add markdown practice exercises"
