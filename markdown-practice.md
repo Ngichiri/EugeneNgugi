@@ -12,6 +12,7 @@
 1. Check your modified files: Run git status in your terminal to see which files have been modified or created.
 2. Stage your files: Add the changes you want to commit to the staging area using git add <filename> (or git add . to stage all changes in the directory).
 3. Commit the changes: Save your staged files to the repository history by running git commit -m "Your descriptive message"
+
 |   Tool    |         Purpose                           |               link                             |
 |-----------|-------------------------------------------|------------------------------------------------|
 | vs code   |  is an integrated development environment |  https://code.visualstudio.com/                |
