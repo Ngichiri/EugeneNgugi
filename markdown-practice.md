@@ -4,8 +4,8 @@
 - **lerning about programing**
 - *lerning about programing*
 - ~~lerning about programing~~
-[github] (https://github.com/Ngichiri)
-[Music] (https://en.wikipedia.org/wiki/Music)
+- [github] (https://github.com/Ngichiri)
+- [Music] (https://en.wikipedia.org/wiki/Music)
 - programming
 - html
 - python
