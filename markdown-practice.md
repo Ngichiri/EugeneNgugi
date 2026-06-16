@@ -21,5 +21,7 @@
 - [ ] markdown basis.
 - [ ] syntax reference.
 ```python
-> i discoverd practicing programing is better than reading in a book
+print("Hello, world!")
+```
+> i discoverd practicing programing is better than reading in a book.
  "Add markdown practice exercises"
